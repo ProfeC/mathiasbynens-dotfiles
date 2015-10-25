@@ -82,7 +82,9 @@ brew install xz
 
 # Install other useful binaries.
 brew install ack
+brew install brew-cask
 brew install dark-mode
+brew install dos2unix
 #brew install exiv2
 brew install git
 brew install git-lfs
@@ -92,10 +94,12 @@ brew install lynx
 brew install p7zip
 brew install pigz
 brew install pv
+brew install rbenv
 brew install rename
 brew install rhino
 brew install speedtest_cli
 brew install ssh-copy-id
+brew install subversion
 brew install tree
 brew install webkit2png
 brew install zopfli
